@@ -1,4 +1,9 @@
+
 <div align="center">
+<img width="1118" height="538" alt="image" src="https://github.com/user-attachments/assets/8ddcd3a4-7a6f-4228-8a42-635f37ef0dc5" />
+
+
+
   
 # 🐐 Projeto Bode
   
@@ -187,6 +192,6 @@ Contribuições são bem-vindas! Sinta-se livre para:
 
 <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" alt="Made with love">
 
-*"Todo dev precisa de uma crise existencial para evoluir"* 🐐
+*"Todo dev precisa de uma crise existencial para evoluir"* <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f410.gif" width="20" height="20">
 
 </div>
