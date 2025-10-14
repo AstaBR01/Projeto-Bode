@@ -1242,4 +1242,5 @@ Irei adicionar mais coisas depois...
 # [Moonloader](https://www.mediafire.com/file/eq8pmzd8f18mmgo/moonloader.rar/file) com todos os recursos já prontos, é só baixar. <br>
 # Russos/Gringos não vão entender bem o que escrevi aqui, tradutor só vai estragar de vez o tutorial 😅 <br>
 # Créditos A **[TheChampGuess](https://vk.com/thechampguess)**, aprendi quase tudo de imgui com ele. <br>
+# Créditos a [SADFI2259X](https://www.blast.hk/members/448908/)(Fork)​
 # Dê sugestões do que colocar aqui\! 😄
