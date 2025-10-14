@@ -2,14 +2,14 @@
 
 ### 🇧🇷 [Исходник] Tutorial ImGui Lua BR (Moonloader)
 
-**Autor:** Haru Urara
+**Autor:** Haru Urara (Eu)
 **Data de Início:** 7 Set 2025
 
 -----
 
 ## ***Tutorial feito para quem é Brasileiro***
 
-***Uns tempos atrás, a moderação chutou minha bunda quando fiz um tutorial que particularmente era péssimo. Agora que me aprofundei em Moon Imgui, posso fazer o tutorial sem ter uma crise existencial novamente...***
+***Uns tempos atrás, a moderação  chutou minha bunda quando fiz um tutorial que particularmente era péssimo. Agora que me aprofundei em Moon Imgui, posso fazer o tutorial sem ter uma crise existencial novamente...***
 
 -----
 
