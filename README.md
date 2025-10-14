@@ -499,7 +499,7 @@ Como ficou : <br>
 
 
 
-### *** [ImGui Notification](https://vk.com/s/v1/doc/STZ8DybSD-zbjbLaVVFvrgfRJ0ryh0pSAftfHg8jE8cwt9y63yc)  :***: Pequenas janelas tipo notificação, em resumo (óbvio né)​
+### [ImGui Notification](https://vk.com/s/v1/doc/STZ8DybSD-zbjbLaVVFvrgfRJ0ryh0pSAftfHg8jE8cwt9y63yc)  : Pequenas janelas tipo notificação, em resumo (óbvio né)​
 Coloque lib_imgui_notf na sua pasta Moonloader
 
 **Comando principal:**
