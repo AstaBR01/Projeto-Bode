@@ -494,7 +494,7 @@ Contém Radio Button,Checkbox,Combo,Spinner,Hotkey e BufferingBar
 Existem Parâmetros que você pode colocar dentro dos parênteses,mas não citarei nesse tutorial
 
 Observe o RadioButton logo abaixo
-Como ficou :
+Como ficou : <br>
 <img width="409" height="305" alt="1757211609438" src="https://github.com/user-attachments/assets/c54747eb-9927-4a1d-a1b4-56a6ddeea8b2" />
 
 
