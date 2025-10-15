@@ -660,7 +660,7 @@ function imgui.BeforeDrawFrame()
     if fa_font == nil then
         local font_config = imgui.ImFontConfig()
         font_config.MergeMode = true
-        fa_font = imgui.GetIO().Fonts:AddFontFromFileTTF('moonloader/resource/fonts/fontawesome-webfont.ttf', 14.0, font_config, fa_glyph_ranges)
+        fa_font = imgui.GetIO().Fonts:AddFontFromFileTTF('moonloader/resource/fonts/forkawesome-webfont.ttf', 14.0, font_config, fa_glyph_ranges)
     end
 end
  
